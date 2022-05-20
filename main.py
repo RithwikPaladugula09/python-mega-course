@@ -1,5 +1,3 @@
-from turtle import color
-from xml.etree.ElementPath import get_parent_map
 import folium
 import pandas
 
